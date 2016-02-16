@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dequinqueaetatib00hartuoft_0067.png"; bbox 0 0 1923 3288; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 522 610 1684 798">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 522 610 1684 798">
+     <span class='ocr_line' id='line_1_1' title="bbox 522 610 1486 732; baseline -0.082 6"><span class='ocrx_word' id='word_1_1' title='bbox 522 642 524 644; x_wconf 7' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_2' title='bbox 611 617 751 732; x_wconf 56' lang='lat' dir='ltr'>{Aooq</span> <span class='ocrx_word' id='word_1_3' title='bbox 920 611 1180 666; x_wconf 61' lang='lat' dir='ltr'><strong>Hartman,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1217 610 1486 664; x_wconf 59' lang='lat' dir='ltr'>Wolsgang</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 617 676 1684 798; baseline -0.063 -4"><span class='ocrx_word' id='word_1_5' title='bbox 617 742 750 798; x_wconf 68' lang='lat'>0733</span> <span class='ocrx_word' id='word_1_6' title='bbox 922 747 956 790; x_wconf 88' lang='lat' dir='ltr'>H</span> <span class='ocrx_word' id='word_1_7' title='bbox 1024 680 1088 756; x_wconf 59' lang='lat' dir='ltr'><strong>Pe</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1125 678 1354 755; x_wconf 54' lang='lat' dir='ltr'><strong>0331an</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1392 676 1684 720; x_wconf 67' lang='lat' dir='ltr'><strong>aetatibus</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 961 746 1220 789; baseline -0.023 3"><span class='ocrx_word' id='word_1_10' title='bbox 961 746 1220 789; x_wconf 63' lang='lat' dir='ltr'><strong>es20dezs</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 629 2629 1791 2787">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 629 2629 1791 2787">
+     <span class='ocr_line' id='line_1_4' title="bbox 629 2629 1791 2694; baseline -0.054 7"><span class='ocrx_word' id='word_1_11' title='bbox 629 2629 1791 2694; x_wconf 42' lang='lat' dir='ltr'><strong>ael—-fl--ae</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 793 2693 1634 2787; baseline -0.055 1"><span class='ocrx_word' id='word_1_12' title='bbox 793 2715 1160 2787; x_wconf 71' lang='lat' dir='ltr'>UNWERSHY</span> <span class='ocrx_word' id='word_1_13' title='bbox 1201 2709 1284 2764; x_wconf 80' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1322 2693 1634 2758; x_wconf 82' lang='lat' dir='ltr'><strong>TORONTO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1083 2785 1353 2848">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1083 2785 1353 2848">
+     <span class='ocr_line' id='line_1_6' title="bbox 1083 2785 1353 2848; baseline -0.048 0"><span class='ocrx_word' id='word_1_15' title='bbox 1083 2785 1353 2848; x_wconf 73' lang='lat' dir='ltr'>MBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 534 456 1872 2970">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 534 456 1872 2970">
+     <span class='ocr_line' id='line_1_7' title="bbox 534 456 1872 2970; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 534 456 1872 2970; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
